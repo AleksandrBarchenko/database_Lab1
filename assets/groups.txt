@@ -1,0 +1,14 @@
+(dp0
+I36357704
+(imodel.group
+Group
+p1
+(dp2
+S'_Group__name'
+p3
+S'1'
+p4
+sS'_Group__id'
+p5
+I36357704
+sbs.
